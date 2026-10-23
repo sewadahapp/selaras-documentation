@@ -33,7 +33,7 @@ The sample pages use generic project and API examples. Replace them with your ow
 ## Customize
 
 - Configure the site name, description, browser title, favicon, header links, search, color mode, sidebar, table of contents, and footer in `app/app.config.ts`.
-- Edit the standalone homepage hero copy, variant, CTA routes, and link cards in `app/pages/index.vue`; the reusable hero components live in `app/components/`.
+- Edit the standalone homepage hero copy, variant, CTA routes, and link cards in `app/pages/index.vue`; the reusable starter components are grouped in `app/components/docs/`.
 - Add, rename, and organize guide and reference pages under `content/`; frontmatter supplies page titles and descriptions.
 - Set `selarasDocs.site.url` for canonical links and add `selarasDocs.repository.url` to enable page edit and issue links.
 - Extend the layer's app by adding standard Nuxt `pages/`, `components/`, or `assets/` files.
