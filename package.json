@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@iconify-json/hugeicons": "^1.2.35",
-    "@iconify-json/vscode-icons": "^1.2.88",
+    "@iconify-json/vscode-icons": "^1.2.74",
     "@nuxt/eslint": "^1.17.0",
     "@sewadah/selaras-docs": "^1.0.0",
     "eslint": "^10.13.0",

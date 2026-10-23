@@ -6,7 +6,7 @@
       "name": "selaras-documentation",
       "devDependencies": {
         "@iconify-json/hugeicons": "^1.2.35",
-        "@iconify-json/vscode-icons": "^1.2.88",
+        "@iconify-json/vscode-icons": "^1.2.74",
         "@nuxt/eslint": "^1.17.0",
         "@sewadah/selaras-docs": "^1.0.0",
         "eslint": "^10.13.0",
@@ -199,7 +199,7 @@
 
     "@iconify-json/hugeicons": ["@iconify-json/hugeicons@1.2.35", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-c06tY90JZnKhOLBAKoQ1z2pqXMRdATuYXslTKwaaIAjLzKsTIsE+GGknY6+qo/SP0U/NG9xQjr4N+zfDqOeQiQ=="],
 
-    "@iconify-json/vscode-icons": ["@iconify-json/vscode-icons@1.2.88", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-tL5JbYOBZHc0ngEnCsaDcryUizIUIlQyIMwy1Wkx93H5HzbBJ7TbiPx2PnFjBwZW0Vh05JmfFZhecE6gglYegA=="],
+    "@iconify-json/vscode-icons": ["@iconify-json/vscode-icons@1.2.74", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-ZVf1IM5sOvvY+0Gc6jtuD5okkd51mJe/BoVMhWJCu1WqZLSF6XgbSguxUOyuBmMjJXNPSw1OBvPwEVq1bXfiTw=="],
 
     "@iconify/types": ["@iconify/types@2.0.0", "", {}, "sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg=="],
 
